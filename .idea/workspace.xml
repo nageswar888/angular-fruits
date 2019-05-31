@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8792c091-a7cf-435d-a216-2c9634b5b192" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/fruits/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/fruits/server.js" afterDir="false" />
-    </list>
+    <list default="true" id="8792c091-a7cf-435d-a216-2c9634b5b192" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -27,7 +25,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fruits/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
+            <state relative-caret-position="180">
               <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
             </state>
           </provider>
@@ -129,7 +127,7 @@
       <option name="presentableId" value="Default" />
       <updated>1559302343077</updated>
       <workItem from="1559302344467" duration="2346000" />
-      <workItem from="1559305647302" duration="2320000" />
+      <workItem from="1559305647302" duration="2572000" />
     </task>
     <task id="LOCAL-00001" summary="commiting">
       <created>1559310803504</created>
@@ -138,15 +136,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559310803504</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commiting">
+      <created>1559311293796</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559311293796</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4666000" />
+    <option name="totallyTimeSpent" value="4918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49759614" visible="true" weight="0.24960877" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -185,7 +189,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fruits/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
+        <state relative-caret-position="180">
           <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
         </state>
       </provider>
